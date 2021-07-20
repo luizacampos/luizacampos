@@ -2,8 +2,8 @@
 
 I'm Luiza, I've been studying web development since last year with focus at MERN stack and I'm looking for an opportunity to apply my skills and experiences.
 
-:rocket:I'm interested in learning
-vue.js angularjs
+<!-- :rocket:I'm interested in learning
+vue.js angularjs -->
 
 <!--
 **luizacampos/luizacampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
